@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi, I'm noddybell
+- 🌱 I'm currently learing git and github.
+- 👯 I’m looking to collaborate on python and java projects.
+- 📫 How to reach me: 
+
+### Talk with me. I'm awesome💕✨
 
 <!--
 **nehvanshika/nehvanshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
