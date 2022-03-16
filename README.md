@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm noddybell
 - 🌱 I'm currently learing git and github.
 - 👯 I’m looking to collaborate on python and java projects.
-- 📫 How to reach me: 
+- 📫 How to reach me: **nehvanshika23s@gmail.com**
 
 ### Talk with me. I'm awesome💕✨
 
