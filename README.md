@@ -1,5 +1,4 @@
-<p align='center'><img src="https://octodex.github.com/images/femalecodertocat.png" width="140" height="140"></p>
-
+<p align='center'><img src="https://octodex.github.com/images/femalecodertocat.png" width="300" height="300"></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
