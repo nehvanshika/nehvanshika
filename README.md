@@ -13,7 +13,6 @@
 - ⚡ Fact about me: **I am a national classical(kathak) dancer and painter. I play basketball.**
 
 ### Talk with me. I'm awesome💕✨
-
 <!--
 **nehvanshika/nehvanshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,8 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <p align="center"> <a href="https://twitter.com/noddy_bell" target="blank"><img src="https://img.shields.io/twitter/follow/noddy_bell?logo=twitter&style=for-the-badge" alt="noddy_bell" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
